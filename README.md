@@ -68,7 +68,7 @@ Learning Objectives
 
 Author
 ------
-Ton Duy Thanh -ITCSIU21234
+Ton Duy Thanh - ITCSIU21234
 
 GitHub: https://github.com/Thnh01
 
