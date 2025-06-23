@@ -8,6 +8,7 @@ This project is a collection of simple games developed in Java using Object-Orie
 
 Project Structure
 -----------------
+```plaintext
 /src
 ├── Game_v1/
 │   ├── Sudoku.java          # Basic Sudoku logic
@@ -36,7 +37,7 @@ Project Structure
 │   ├── Snake.java           # Snake movement and collision
 │   ├── GamePanel.java       # Panel with game logic and events
 │   └── Game.java            # Main launcher for enhanced Snake
-
+```
 Requirements
 ------------
 - Java Development Kit (JDK) 8 or higher
@@ -64,7 +65,7 @@ Learning Objectives
 
 Author
 ------
-Ton Duy Thanh  
+Ton Duy Thanh - ITCSIU21234
 GitHub: https://github.com/Thnh01
 
 Notes
