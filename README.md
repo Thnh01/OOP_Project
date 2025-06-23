@@ -1,10 +1,13 @@
 OOP_PROJECT - JAVA GAME COLLECTION
-May 2024 - June 2024
 ==================================
 
 Description
 -----------
 This project is a collection of simple games developed in Java using Object-Oriented Programming (OOP) principles. Each version (Game_v1 to Game_v5) represents either a stage of improvement or a different game entirely, including Sudoku and Snake.
+
+Date
+-----------------
+May 2024 - June 2024
 
 Project Structure
 -----------------
