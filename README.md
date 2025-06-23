@@ -48,8 +48,7 @@ Requirements
 
 How to Run
 ----------
-1. Clone the repository:
-   git clone https://github.com/Thnh01/OOP_Project.git
+1. Download the project: https://github.com/Thnh01/OOP_Project
 
 2. Open the project in your preferred Java IDE.
 
